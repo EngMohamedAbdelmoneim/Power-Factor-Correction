@@ -16,6 +16,9 @@ Frontend :
 ## Desktop Version
 ![Desktop screens](https://github.com/user-attachments/assets/8e083a74-5fe6-4b1b-96b8-f21a7f996ef5)
 
+## The Excel Sheet that App create
+![image](https://github.com/user-attachments/assets/d683521e-2ef3-43a1-b591-f30034dd0c71)
+
 ### Built with
 
 - Figma (for designing UI)
