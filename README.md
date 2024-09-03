@@ -1,5 +1,5 @@
 # Power-Factor-Correction
-Power Factor Correction App Calculate Factories Power needs and it's cost creating excel sheet designed for easy usage 
+## Power Factor Correction App Calculate Factories Power needs and it's cost creating excel sheet designed for easy usage 
 ![Desktop Splash(4)](https://github.com/user-attachments/assets/2b887e21-5aaf-4619-8050-1dac466827f5)
 
 ## Description
@@ -13,7 +13,7 @@ Frontend :
 ## Mobile Version
 ![Desktop Splash(5)](https://github.com/user-attachments/assets/813cd98b-b184-4554-afd8-5b863aab2bcf)
 
-## DeskTop Version
+## Desktop Version
 ![Desktop screens](https://github.com/user-attachments/assets/8e083a74-5fe6-4b1b-96b8-f21a7f996ef5)
 
 ### Built with
