@@ -31,7 +31,7 @@ Frontend :
 
 * [HexColor](https://github.com/ggichure/hexcolor)
 * [AdobeXD](https://helpx.adobe.com/support/xd.html) (For designing the UI)
-* [Syncfusion]([https://www.syncfusion.com/blogs/post/easily-export-datagrid-to-excel-and-pdf-in-flutter)] (For Export Excel sheet)
+* [Syncfusion](https://www.syncfusion.com/blogs/post/easily-export-datagrid-to-excel-and-pdf-in-flutter) (For Export Excel sheet)
  
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
